@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Backend/">
+    <Project Path="src/Backend/Outlay.Api/Outlay.Api.csproj" />
+    <Project Path="src/Backend/Outlay.Application/Outlay.Application.csproj" />
+    <Project Path="src/Backend/Outlay.Domain/Outlay.Domain.csproj" />
+    <Project Path="src/Backend/Outlay.Infrastructure/Outlay.Infrastructure.csproj" />
+  </Folder>
+</Solution>
